@@ -1,0 +1,15 @@
+{
+    
+  "APP_NAME": "E-Commerce",
+  "HOST": "127.0.0.1",
+  "PORT": 3000,
+  "DB_CONNECTION": "mongodb",
+  "IS_CLUSTERID": true,
+  "DB_HOST": "e.com.backend.mongodb.net",
+  "DB_PORT": "27017",
+  "DB_DATABASE": "Backend",
+  "DB_USERNAME": "ecom-readwrite",
+  "DB_PASSWORD": "XpD2AZUGa344bB5L",
+  "jwtSecret": "mysecrettoken",
+  "endepwd": "d6F3Efeq"
+}
